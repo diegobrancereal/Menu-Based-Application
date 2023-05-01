@@ -1,5 +1,5 @@
 import csv
-
+print("hi")
 def generate_list_games(filename):
 
     main_list = []
